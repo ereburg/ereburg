@@ -18,9 +18,6 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
 
 "Veni. Vedi. Vici."
 
-![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereburg&count_private=true&show_icons=true&custom_title=Github%20Status&title_color=333&text_color=777)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereburg&layout=compact&title_color=333&text_color=777&langs_count=8)](https://github.com/ereburg/ereburg)
-
 <p>
   <a href= "https://instagram.com/ereburg">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
@@ -33,6 +30,23 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
   <a href="https://linkedin.com/in/julianpufler">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
+</p>
+
+<p align="justify">
+  <a href="https://github.com/ereburg/ereburg/">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=ereburg&count_private=true&show_icons=true&custom_title=Github%20Status&title_color=333&text_color=777"
+      alt="Eugene's GitHub stats"
+    />
+  </a>
+   <a href="https://github.com/ereburg/ereburg/">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereburg&layout=compact&title_color=333&text_color=777&langs_count=10"
+      alt="Eugene's top langs stats"
+    />
+  </a>  
 </p>
 
 ### Technologies:
