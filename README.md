@@ -19,8 +19,7 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
    <a href="https://github.com/ereburg/ereburg/">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=ereburg&layout=compact&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereburg&layout=compact&langs_count=6"
       alt="Eugene's top langs stats"
     />
   </a>  
