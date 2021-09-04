@@ -1,8 +1,3 @@
-
-
-![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereburg&count_private=true&show_icons=true&custom_title=Github%20Status&title_color=333&text_color=777)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereburg&layout=compact&title_color=333&text_color=777)](https://github.com/ereburg/ereburg)
-
 # Eugene Kotsarev
 [![Linkedin Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ereburg/)](https://www.linkedin.com/in/ereburg/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=flat-square&logo=Vk&logoColor=white&link=https://vk.com/ereburg)](https://vk.com/ereburg)
@@ -22,6 +17,9 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
 -  ⚡ Technologies: React, Angular, Ionic, Node, Express, Redux.
 
 "Veni. Vedi. Vici."
+
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ereburg&count_private=true&show_icons=true&custom_title=Github%20Status&title_color=333&text_color=777)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ereburg&layout=compact&title_color=333&text_color=777&langs_count=8)](https://github.com/ereburg/ereburg)
 
 <p>
   <a href= "https://instagram.com/ereburg">
