@@ -26,10 +26,10 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
 </p>
 
 ### Contacts:
-[![Linkedin Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ereburg/)](https://www.linkedin.com/in/ereburg/)
-[![Vkontakte Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Vk&logoColor=white&link=https://vk.com/ereburg)](https://vk.com/ereburg)
-[![Instagram Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ereburg)](https://instagram.com/ereburg)
-[![Buymeacoffee Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/ereburg)](https://buymeacoffee.com/ereburg)
+[![Linkedin Badge](https://img.shields.io/badge/-ereburg-yellow?style=flat-square&logo=Linkedin&color=black&link=https://www.linkedin.com/in/ereburg/)](https://www.linkedin.com/in/ereburg/)
+[![Vkontakte Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Vk&logoColor=white&color=black&link=https://vk.com/ereburg)](https://vk.com/ereburg)
+[![Instagram Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=Instagram&logoColor=white&color=black&link=https://instagram.com/ereburg)](https://instagram.com/ereburg)
+[![Buymeacoffee Badge](https://img.shields.io/badge/-ereburg-blue?style=flat-square&logo=buymeacoffee&logoColor=white&color=black&link=https://buymeacoffee.com/ereburg)](https://buymeacoffee.com/ereburg)
 
 ### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,4 +44,5 @@ I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScr
 ![Years](https://badges.pufler.dev/years/ereburg?style=flat-square&color=black&logo=github&a=0)
 ![Repos](https://badges.pufler.dev/repos/ereburg?style=flat-square&color=black&logo=github&a=0)
 ![Commits](https://badges.pufler.dev/commits/monthly/ereburg?style=flat-square&color=black&logo=github&a=0)
-![Profile Views](https://badges.pufler.dev/visits/ereburg/ereburg?style=flat-square&color=blue&logo=github)
+![Profile Views](https://badges.pufler.dev/visits/ereburg/ereburg?style=flat-square&color=black&logo=github)
+
