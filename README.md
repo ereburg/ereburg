@@ -1,10 +1,10 @@
 ## Hi 👋,
-I'm Eugene, I'm a Frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Eugene, frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-- 🔭 I’m currently working on JavaScript apps/systems
-- 🌱 I’m currently learning NextJS, ReactJS, NodeJS and of course JS improvements
+- 🔭 Currently I'm working on TypeScript desktop/browser apps and systems
+- 🌱 Also I'm diving deep into learning NextJS, EffectorJS and of course JS improvements
 - 💬 Ask me about: tech, movies and a little bit about psychology.
--  ⚡ Technologies: React, Angular, Ionic, Node, Express, Redux.
+-  ⚡ Technologies: React, Next, Effector, TailwindCSS, etc.
 
 "Veni. Vedi. Vici."
 
